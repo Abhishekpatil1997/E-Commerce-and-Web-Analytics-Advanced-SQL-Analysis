@@ -7,7 +7,7 @@ This project performs comprehensive SQL-based analysis on the database of Fuzzy 
 - Evaluate impact of new product launches  
 - Leverage MySQL to explore complex e-commerce data
 
-## **For complete details on the analysis including example queries and output, please refer to the associated [PDF report](./E-Commerce_and_Web_Analytics-Advanced_SQL.pdf)**
+## **For complete details on the analysis including example queries and output, please refer to the associated [PDF report](E-Commerce_and_Web_Analytics-Adavanced_SQL.pdf)**
 
 ## Database Overview
 
